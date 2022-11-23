@@ -1,0 +1,74 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+a:link,
+a:visited,
+a:active {
+  text-decoration: none;
+  color: #fff;
+}
+
+body {
+  background-image: url("../assets/background picture.png");
+  color: white;
+  background-position: center;
+  background-size: cover;
+  height: 90%;
+}
+.navbar {
+  padding-top: 20px;
+  background-image: url("../assets/backgroundimage.png");
+  font-size: 18px;
+}
+.navbar :hover {
+  background-color: black;
+  color: darkorange;
+  font-size: 20px;
+}
+.main-content {
+  padding-top: 340px;
+  padding-left: 120px;
+}
+
+#logo {
+  font-size: 60px;
+  padding-top: 8px;
+}
+.project-description {
+  font-size: 26px;
+}
+.contact-btn {
+  box-sizing: border-box;
+  font-size: 16px;
+  border-radius: 16px;
+  padding: 12px 40px;
+  margin-top: 36px;
+  font-size: 16px;
+  border-color: white;
+  border-style: none;
+}
+.contact-btn:hover {
+  background: black;
+  color: white;
+  font-size: 20px;
+}
+.line {
+  width: 565px;
+  height: 3px;
+}
+@media screen and (max-width: 768px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    text-align: center;
+    font-size: 26px;
+  }
+}

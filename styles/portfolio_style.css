@@ -1,0 +1,208 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  background: #2e2e36;
+  color: white;
+  font-family: sans-serif;
+}
+.org-line {
+  position: absolute;
+  top: 96px;
+  padding-left: 40px;
+}
+.heading-name {
+  color: white;
+  padding-top: 70px;
+  font-size: 46px;
+  font-family: sans-serif;
+  padding-left: 180px;
+}
+.bank-img {
+  padding-left: 700px;
+  height: 50%;
+  width: 40%;
+  padding-top: 120px;
+}
+.comp-name {
+  padding-top: 100px;
+  font-family: sans-serif;
+  font-size: 44px;
+}
+.org-line2 {
+  width: 230px;
+  height: 3px;
+}
+
+.comp-names {
+  position: absolute;
+  padding-left: 40px;
+  font-family: sans-serif;
+}
+.comp-obj-bank {
+  font-size: 30px;
+  padding-top: 20px;
+}
+.comp-visa {
+  font-size: 22px;
+  padding-top: 20px;
+  font-weight: 550;
+}
+.comp-obj-visa {
+  font-size: 32px;
+  padding-top: 20px;
+}
+.org-line3 {
+  height: 3px;
+  width: 283px;
+}
+.project-desp {
+  font-size: 22px;
+  padding-top: 18px;
+}
+.org-line2 {
+  height: 3px;
+  width: 345px;
+}
+
+.comp-sherin {
+  padding-top: 200px;
+  padding-left: 700px;
+  font-family: sans-serif;
+  font-size: 44px;
+}
+.sherin_line_first {
+  padding-left: 700px;
+  width: 140px;
+}
+.sherin-obj {
+  font-size: 30px;
+  padding-left: 700px;
+  padding-top: 20px;
+}
+.sherin-line2 {
+  padding-left: 700px;
+  height: 3px;
+  width: 345px;
+}
+.sherin-project {
+  padding-left: 700px;
+  font-size: 22px;
+  padding-top: 20px;
+}
+.sherin-objectives {
+  padding-left: 700px;
+  font-size: 32px;
+  padding-top: 20px;
+}
+.sherin-line3 {
+  padding-left: 700px;
+  width: 290px;
+  height: 3px;
+}
+.sherin-description {
+  padding-left: 700px;
+  font-size: 20px;
+  padding-top: 20px;
+}
+.sherin-comp-img {
+  height: 50%;
+  width: 40%;
+  padding-left: 60px;
+  position: absolute;
+  top: 835px;
+}
+.container-saber {
+  position: absolute;
+}
+.saber {
+  font-size: 44px;
+  padding-top: 200px;
+  padding-left: 60px;
+}
+.saber-line1 {
+  padding-left: 60px;
+  width: 160px;
+  height: 3px;
+}
+.saber-obj {
+  padding-left: 60px;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-left: 60px;
+}
+.saber-line2 {
+  padding-left: 60px;
+  width: 345px;
+  height: 3px;
+}
+.saber-objectives {
+  padding-left: 60px;
+  font-size: 32px;
+  padding-top: 20px;
+}
+
+.saber-line3 {
+  padding-left: 60px;
+  width: 280px;
+  height: 3px;
+}
+
+.saber-project {
+  font-size: 22px;
+  padding-left: 60px;
+  padding-top: 20px;
+}
+.saber-project {
+  font-size: 20px;
+  padding-top: 20px;
+}
+.saber-tell {
+  font-size: 20px;
+  padding-left: 60px;
+  padding-top: 20px;
+}
+.saber-photo {
+  height: 50%;
+  width: 40%;
+  padding-top: 220px;
+  padding-left: 700px;
+}
+@media screen and (max-width: 768px) {
+  .bank-img {
+    padding-left: 30px;
+    position: absolute;
+    width: auto;
+    top: 15px;
+    background: none;
+  }
+  .container {
+    padding-top: 250px;
+  }
+  .sherin-comp-img {
+    padding-top: 240px;
+    background: none;
+    width: auto;
+    padding-left: 30px;
+  }
+  .container-sherin {
+    padding-top: 1115px;
+    padding-left: 30px;
+    background: none;
+    left: -700px;
+    position: absolute;
+    line-height: 30px;
+  }
+  .container-saber {
+    position: absolute;
+    padding-top: 1929px;
+    background: none;
+    right: 200px;
+  }
+  .saber-photo {
+    top: 1653px;
+    position: absolute;
+    background: none;
+    right: 90px;
+    width: auto;
+  }
+}
