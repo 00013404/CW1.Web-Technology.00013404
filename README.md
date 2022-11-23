@@ -20,4 +20,4 @@ During web development, there are no libraries used. All codes are written in HT
 
 Website url:
 <br>
-GitHub url:https://github.com/00013404/CW1.Web-Technology.00013404
+GitHub url:https://github.com/00013404/CW1.Web-Technology.00013404.git
