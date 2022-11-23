@@ -1,6 +1,6 @@
 # Coursework in the module Web Technology for the first semester
 
-##Purpose of the website:
+## Purpose of the website:
 
 The main purpose of the website is to promote company services. VOXE media group is a media and IT solutions company operating in a wide range of areas. The company services include SMM marketing, tv distribution, IT consulting, renting and advertising.In the website, there is some information given about the company partners, subsidary companies, projects and achievements so far.
 
@@ -18,6 +18,6 @@ The "Company" page represents VOXE media group's companies in different business
 
 During web development, there are no libraries used. All codes are written in HTML, CSS and JavaScript.
 
-Website url:
+Website url:https://voxe-company-cw1-web-tech.netlify.app/
 <br>
 GitHub url:https://github.com/00013404/CW1.Web-Technology.00013404.git
