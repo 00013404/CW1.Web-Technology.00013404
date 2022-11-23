@@ -53,7 +53,7 @@
   width: 280px;
   border-radius: 10px;
 }
-.comp-image-first {
+.comp-img-first {
   display: flex;
   padding-left: 700px;
   padding-top: 40px;
@@ -61,7 +61,7 @@
   box-sizing: border-box;
   border-radius: 10px;
 }
-.comp-image-second {
+.comp-img-second {
   display: flex;
   padding-left: 700px;
   margin: 5px;
@@ -160,7 +160,7 @@ proj {
     padding-top: 320px;
     padding-left: 20px;
   }
-  .comp-image-second {
+  .comp-img-second {
     padding-left: 20px;
   }
 }
